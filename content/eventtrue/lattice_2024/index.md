@@ -49,7 +49,7 @@ Local Organizing Committee
 - Pavel Buividovich (University of Liverpool)
 - Nicolas Garron (Liverpool Hope University)
 - John Gracey (University of Liverpool)
-Vera Gülpers (University of Edinburgh)
+- Vera Gülpers (University of Edinburgh)
 - Maxwell Hansen (University of Edinburgh)
 - Antonin Portelli (University of Edinburgh)
 - Paul Rakow (University of Liverpool)
