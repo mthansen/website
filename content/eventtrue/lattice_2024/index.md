@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: '[**Scouse1980liverpool, CC BY-SA 4.0, via Wikimedia Commons**](https://creativecommons.org/licenses/by-sa/4.0)'
+  caption: '[**Brit in Seoul, CC BY 4.0, via Wikimedia Commons**](https://creativecommons.org/licenses/by/4.0)'
   focal_point: Right
 
 links:
@@ -42,3 +42,17 @@ links:
 ---
 
 Originally started as a forum for particle physicists to discuss recent developments in lattice gauge theory, the conference has since expanded to the largest of its type, covering a wide range of topics including algorithms and machines, code development, physics within and beyond the Standard Model, and other strongly interacting systems.
+
+Local Organizing Committee
+- Simon Hands (Chair) (University of Liverpool)
+- Chris Bouchard (University of Glasgow)
+- Pavel Buividovich (University of Liverpool)
+- Nicolas Garron (Liverpool Hope University)
+- John Gracey (University of Liverpool)
+Vera Gülpers (University of Edinburgh)
+- Maxwell Hansen (University of Edinburgh)
+- Antonin Portelli (University of Edinburgh)
+- Paul Rakow (University of Liverpool)
+- Sinéad Ryan (Trinity College Dublin)
+- David Schaich (University of Liverpool)
+- Jon-Ivar Skullerud (Maynooth University)
