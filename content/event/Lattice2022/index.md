@@ -12,7 +12,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary:  Parallel talk at the 39th International Symposium on Lattice Field Theory
 abstract:
 
 # Talk start and end times.
