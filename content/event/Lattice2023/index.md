@@ -7,16 +7,16 @@ event: Lattice2023
 event_url: https://indico.fnal.gov/event/57249/contributions/271297/
 location: Fermilab, USA
 address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
-summary:
+street:
+city:
+region:
+postcode:
+country:
+summary: Parallel talk at the 40th International Symposium on Lattice Field Theory.
 abstract: We present progress towards extracting multi-hadron $D$ decay amplitudes, such as $D \to \pi \pi$, in a pilot study using three ensembles of stabilised Wilson fermions at the SU(3) flavour symmetric point, with $M_\pi=410$ MeV. As the three ensembles differ only in the lattice spacing, with well matched physical volumes, it is possible to perform a continuum limit for finite-volume energies (and eventually weak-decay matrix elements) at fixed physical volume. The talk will summarise the work-flow and challenges of the ongoing calculation with a focus on results for the $a^2$-dependence and continuum limit of the two-to-two pseudoscalar $S$-wave scattering amplitude, determined via the GEVP+Lüscher approach in an exact distillation setup implemented in the Grid and Hadrons software libraries.
 
 # Talk start and end times.
-date: 2023-08-03
+date: 2023-08-03T14:00:00Z
 all_day: false
 
 authors: []
@@ -28,10 +28,10 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-# image:
-#   caption: '[**Alexander Boden, CC BY-SA 2.0, via Wikimedia Commons**](https://creativecommons.org/licenses/by-sa/2.0)'
-#   focal_point: "Center"
-#   preview_only: false
+image:
+  caption: '[**Reidar Hahn, Public Domain, via Wikimedia Commons**]'
+  focal_point: "Center"
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
