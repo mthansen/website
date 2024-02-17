@@ -10,7 +10,7 @@ authors:
 - Maxwell T. Hansen
 tags: []
 categories: []
-date: '2022-12-01'
+date: '2023-01-01'
 lastmod: 2023-01-12T10:21:46Z
 featured: false
 draft: false
@@ -29,12 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-12T10:21:46.526700Z'
+publishDate: '2024-02-17T17:02:49.646676Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*39th International Symposium on Lattice Field Theory*'
+publication: '*PoS*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2212.10623
+doi: 10.22323/1.430.0050
 ---
