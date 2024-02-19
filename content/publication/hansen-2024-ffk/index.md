@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Incorporating $DDπ$ effects and left-hand cuts in lattice QCD studies of the
-  $T_cc(3875)^+$
+title: Incorporating $DD{\pi}$ effects and left-hand cuts in lattice QCD studies of the
+  $T_{cc}(3875)^+$
 subtitle: ''
 summary: ''
 authors:
