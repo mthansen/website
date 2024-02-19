@@ -35,4 +35,7 @@ publication_types:
 abstract: ''
 publication: '*Phys. Rev. D*'
 doi: 10.1103/PhysRevD.91.034501
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1406.5965
 ---

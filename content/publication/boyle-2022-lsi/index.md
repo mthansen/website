@@ -10,7 +10,7 @@ authors:
 - ' others'
 tags: []
 categories: []
-date: '2022-11-01'
+date: '2023-01-01'
 lastmod: 2023-01-12T10:21:47Z
 featured: false
 draft: false
@@ -29,12 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-12T10:21:47.551161Z'
+publishDate: '2024-02-17T17:02:50.933787Z'
 publication_types:
 - '2'
 abstract: ''
-publication: ''
+publication: '*JHEP*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2211.12865
+doi: 10.1007/JHEP02(2023)242
 ---
