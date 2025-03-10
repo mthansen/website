@@ -22,10 +22,10 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
-  # filters:
+  filters:
   #   tag: ''
   #   category: ''
-  #   publication_type: ''
+    publication_type: ['1','2','3','4','5']
   #   author: ''
   #   exclude_featured: false
 design:
