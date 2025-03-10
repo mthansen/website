@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: MTH # Website name
-baseURL: 'https://cliath.ph.ed.ac.uk/mthansen/' # Website URL
+baseURL: 'https://mthansen.github.io/website/' # Website URL
 
 
 
