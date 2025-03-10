@@ -41,21 +41,21 @@ links:
 # url_video: ''
 ---
 
-This workshop focuses on **multi-particle reactions** in nuclear and particle physics, which are essential for understanding quantum chromodynamics (QCD) and testing the Standard Model. It will bring together researchers from fields such as **lattice QCD, scattering theory, effective field theories, and experimental hadron spectroscopy**.
+This workshop focuses on multi-particle reactions in nuclear and particle physics, which are essential for understanding quantum chromodynamics (QCD) and testing the Standard Model. It will bring together researchers from fields such as lattice QCD, scattering theory, effective field theories, and experimental hadron spectroscopy.
 
-Hosted by **UC Berkeley and Lawrence Berkeley National Lab (LBNL)**, the event aims to foster collaboration, and explore innovative approaches in the topics of **rare electroweak decays, few-/many-body methods, and novel techniques for strongly interacting theories**.
+Hosted by UC Berkeley and Lawrence Berkeley National Lab (LBNL), the event aims to foster collaboration, and explore innovative approaches in the topics of rare electroweak decays, few-/many-body methods, and novel techniques for strongly interacting theories.
 
-The workshop will include **talks, discussions, and a special session honoring Steve Sharpe’s career**. It follows a two-week summer school for graduate students and postdocs.  The event is co-sponsored by multiple institutions, including **LANL, ORNL, JST ASPIRE, and EMMI**.
+The workshop will include talks, discussions, and a special session honoring Steve Sharpe’s career. It follows a two-week summer school for graduate students and postdocs.  The event is co-sponsored by multiple institutions, including LANL, ORNL, JST ASPIRE, and EMMI.
 
 Organizing Committee
-- **Raúl Briceño** (University of California, Berkeley)
-- **Caroline S. R. Costa** (University of California, Berkeley)
-- **Sebastian Dawid** (University of Washington, Seattle)
-- **César Fernández Ramírez** (Universidad Nacional de Educación a Distancia (UNED), Madrid)
-- **Maxwell Hansen** (University of Edinburgh)
-- **Maarten Golterman** (San Francisco State University)
-- **Felipe Ortega Gama** (University of California, Berkeley)
-- **Dimitra Pefkou** (University of California, Berkeley)
-- **Alessandro Pilloni** (INFN, Sezione di Roma)
-- **Wyatt Smith** (University of California, Berkeley)
-- **André Walker-Loud** (Lawrence Berkeley National Laboratory)
+- Raúl Briceño (University of California, Berkeley)
+- Caroline S. R. Costa (University of California, Berkeley)
+- Sebastian Dawid (University of Washington, Seattle)
+- César Fernández Ramírez (Universidad Nacional de Educación a Distancia (UNED), Madrid)
+- Maxwell Hansen (University of Edinburgh)
+- Maarten Golterman (San Francisco State University)
+- Felipe Ortega Gama (University of California, Berkeley)
+- Dimitra Pefkou (University of California, Berkeley)
+- Alessandro Pilloni (INFN, Sezione di Roma)
+- Wyatt Smith (University of California, Berkeley)
+- André Walker-Loud (Lawrence Berkeley National Laboratory)
