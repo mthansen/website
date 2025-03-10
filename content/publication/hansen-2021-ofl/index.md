@@ -10,9 +10,9 @@ authors:
 - Stephen R. Sharpe
 tags: []
 categories: []
-date: '2021-01-25'
+date: '2021-01-01'
 lastmod: 2021-01-25T12:00:00+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -29,10 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-25'
+publishDate: '2025-03-10T13:30:14.398504Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*JHEP*'
-doi: 
+doi: 10.1007/JHEP04(2021)113
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2101.10246
 ---

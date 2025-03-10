@@ -12,7 +12,7 @@ authors:
 - Antonin Portelli
 tags: []
 categories: []
-date: '2022-09-01'
+date: '2023-01-01'
 lastmod: 2023-01-12T10:21:47Z
 featured: false
 draft: false
@@ -35,8 +35,9 @@ publishDate: '2023-01-12T10:21:47.752220Z'
 publication_types:
 - '2'
 abstract: ''
-publication: ''
+publication: '*JHEP*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2209.15460
+doi: 10.1007/JHEP04(2023)108
 ---

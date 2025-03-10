@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The energy-dependent $π^+ π^+ π^+$ scattering amplitude from QCD
+title: Energy-Dependent $\pi^+ \pi^+ \pi^+$  Scattering Amplitude from QCD
 subtitle: ''
 summary: ''
 authors:
@@ -12,9 +12,9 @@ authors:
 - David J. Wilson
 tags: []
 categories: []
-date: '2020-09-01'
+date: '2021-01-01'
 lastmod: 2020-12-10T17:31:26+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -31,10 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-10T16:31:26.448244Z'
+publishDate: '2025-03-10T13:30:14.790217Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Phys. Rev. Lett.*'
 doi: 10.1103/PhysRevLett.126.012001
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2009.04931
 ---

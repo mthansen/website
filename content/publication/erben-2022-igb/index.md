@@ -13,7 +13,7 @@ authors:
 - Antonin Portelli
 tags: []
 categories: []
-date: '2022-12-01'
+date: '2023-01-01'
 lastmod: 2023-01-12T10:21:46Z
 featured: false
 draft: false
@@ -32,12 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-12T10:21:46.730105Z'
+publishDate: '2025-03-10T13:30:10.127084Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*39th International Symposium on Lattice Field Theory*'
+publication: '*PoS*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2212.09595
+doi: 10.22323/1.430.0315
 ---
