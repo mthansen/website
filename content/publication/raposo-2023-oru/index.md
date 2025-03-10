@@ -9,7 +9,7 @@ authors:
 - Maxwell T. Hansen
 tags: []
 categories: []
-date: '2023-11-01'
+date: '2024-01-01'
 lastmod: 2024-02-17T17:01:31Z
 featured: false
 draft: false
@@ -28,12 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-02-17T17:02:47.821620Z'
+publishDate: '2025-03-10T13:30:08.361435Z'
 publication_types:
 - '2'
 abstract: ''
-publication: ''
+publication: '*JHEP*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2311.18793
+doi: 10.1007/JHEP08(2024)075
 ---
