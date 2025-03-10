@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - André Baião Raposo
-- Ra\'ul A. Briceño
+- Raúl A. Briceño
 - Maxwell T. Hansen
 - Andrew W. Jackura
 tags: []
