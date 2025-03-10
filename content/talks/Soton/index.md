@@ -12,7 +12,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Seminar at the University of Southampton
 abstract:
 
 # Talk start and end times.
@@ -69,3 +69,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Seminar at the University of Southampton
