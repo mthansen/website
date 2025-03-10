@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Physical-mass calculation of $h̊o(770)$ and $K^*(892)$ resonance parameters
+title: Physical-mass calculation of $\rho(770)$ and $K^*(892)$ resonance parameters
   via $π π$ and $K π$ scattering amplitudes from lattice QCD
 subtitle: ''
 summary: ''

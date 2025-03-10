@@ -9,7 +9,7 @@ authors:
 - Fernando Romero-López
 - Stephen R. Sharpe
 - Tyler D. Blanton
-- Ra\ĺ A. Briceño
+- Raúl A. Briceño
 - Maxwell T. Hansen
 tags: []
 categories: []

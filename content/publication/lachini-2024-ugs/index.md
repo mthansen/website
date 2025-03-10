@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Towards a high-precision description of the $h̊o$ and K* resonances
+title: Towards a high-precision description of the $\rho$ and K* resonances
 subtitle: ''
 summary: ''
 authors:

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Discretization effects in finite-volume $2to2$ scattering
+title: Discretization effects in finite-volume $2 \to 2$ scattering
 subtitle: ''
 summary: ''
 authors:

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'QED$_textr$: a finite-volume QED action with redistributed spatial zero-momentum
+title: 'QED$_{\rm{r}}$: a finite-volume QED action with redistributed spatial zero-momentum
   modes'
 subtitle: ''
 summary: ''
