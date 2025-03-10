@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Talk for the Edinburgh Amplitudes Journal Club
 abstract:
 
 # Talk start and end times.
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -49,7 +49,7 @@ image:
 url_slides:
 url_code:
 url_pdf:
-url_video: 
+url_video:
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -64,3 +64,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Talk for the Edinburgh Amplitudes Journal Club

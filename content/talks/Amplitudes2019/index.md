@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: Invited talk at the Amplitudes 2019 conference in Dublin
 abstract:
 
 # Talk start and end times.
@@ -66,3 +66,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Invited talk at the Amplitudes 2019 conference in Dublin

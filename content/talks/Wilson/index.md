@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: Acceptance of the Kenneth G. Wilson Award for Excellence in Lattice Field Theory.
+summary: Acceptance of the Kenneth G. Wilson Award for Excellence in Lattice Field Theory (virtual event based at MIT)
 abstract:
 
 # Talk start and end times.
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -66,3 +66,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Acceptance of the Kenneth G. Wilson Award for Excellence in Lattice Field Theory (virtual event based at MIT)

@@ -12,7 +12,7 @@ address:
   region:
   postcode:
   country:
-summary:  Parallel talk at the 39th International Symposium on Lattice Field Theory
+summary:  Parallel talk at the 39th International Symposium on Lattice Field Theory in Bonn, Germany
 abstract:
 
 # Talk start and end times.
@@ -67,3 +67,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Parallel talk at the 39th International Symposium on Lattice Field Theory in Bonn, Germany

@@ -12,8 +12,8 @@ address:
   region:
   postcode:
   country:
-summary:
-abstract: Lectures on quantum field theory in a Euclidean finite volume
+summary: Lectures on quantum field theory in a Euclidean finite volume (virtual event based in Edinburgh)
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -67,3 +67,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Lectures on quantum field theory in a Euclidean finite volume (virtual event based in Edinburgh)

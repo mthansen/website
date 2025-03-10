@@ -4,8 +4,8 @@
 title: Three-pion scattering from lattice QCD
 event: JLab Cake Seminar
 location: JLab (Virtual)
-summary:
-abstract: In this talk, I will present a lattice-QCD calculation of the maximal-isospin, three-pion scattering amplitude (3π+ to 3π+). The calculation combines finite-volume energies with a relativistic field-theoretic formalism, required to interpret the results. I will describe the full work-flow required to reach the final amplitude, implemented here for the first time, and discuss the complicated singularities appearing in the latter. Finally I will discuss prospects for applying these methods to resonant three-particle systems, in order to gain a deeper understanding of these complicated objects from first principles QCD.
+summary: JLab Cake Seminar
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -58,3 +58,6 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+JLab Cake Seminar
+
+In this talk, I will present a lattice-QCD calculation of the maximal-isospin, three-pion scattering amplitude (3π+ to 3π+). The calculation combines finite-volume energies with a relativistic field-theoretic formalism, required to interpret the results. I will describe the full work-flow required to reach the final amplitude, implemented here for the first time, and discuss the complicated singularities appearing in the latter. Finally I will discuss prospects for applying these methods to resonant three-particle systems, in order to gain a deeper understanding of these complicated objects from first principles QCD.
