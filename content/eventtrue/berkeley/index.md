@@ -11,7 +11,7 @@ location: UC Berkeley
 #   postcode: '94305'
 #   country: United States
 
-summary: This workshop, hosted by UC Berkeley and LBNL, brings together researchers in multi-particle reactions to advance understanding of quantum chromodynamics (QCD) and test the Standard Model.
+summary: This workshop, hosted by UC Berkeley and LBNL, brings together researchers in multi-particle reactions to advance our understanding of quantum chromodynamics and the standard model of particle physics.
 
 
 # Talk start and end times.
@@ -45,13 +45,13 @@ This workshop focuses on **multi-particle reactions** in nuclear and particle ph
 
 Hosted by **UC Berkeley and Lawrence Berkeley National Lab (LBNL)**, the event aims to foster collaboration, and explore innovative approaches in the topics of **rare electroweak decays, few-/many-body methods, and novel techniques for strongly interacting theories**.
 
-The workshop will include **talks, discussions, and a special session honoring Steve Sharpe’s contributions**. It follows a two-week summer school for graduate students and postdocs.  The event is **co-sponsored** by multiple institutions, including **LANL, ORNL, JST ASPIRE, and EMMI**.
+The workshop will include **talks, discussions, and a special session honoring Steve Sharpe’s career**. It follows a two-week summer school for graduate students and postdocs.  The event is co-sponsored by multiple institutions, including **LANL, ORNL, JST ASPIRE, and EMMI**.
 
 Organizing Committee
 - **Raúl Briceño** (University of California, Berkeley)
 - **Caroline S. R. Costa** (University of California, Berkeley)
 - **Sebastian Dawid** (University of Washington, Seattle)
-- **César Fernández Ramírez** (Instituto de Ciencias Nucleares, UNAM)
+- **César Fernández Ramírez** (Universidad Nacional de Educación a Distancia (UNED), Madrid)
 - **Maxwell Hansen** (University of Edinburgh)
 - **Maarten Golterman** (San Francisco State University)
 - **Felipe Ortega Gama** (University of California, Berkeley)
