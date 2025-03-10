@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The role of boundary conditions in quantum computations of scattering observables
+title: Role of boundary conditions in quantum computations of scattering observables
 subtitle: ''
 summary: ''
 authors:
 - Raúl A. Briceño
 - Juan V. Guerrero
 - Maxwell T. Hansen
-- Alexandru Sturzu
+- Alexandru M. Sturzu
 tags: []
 categories: []
-date: '2020-07-01'
+date: '2021-01-01'
 lastmod: 2020-12-10T17:31:27+01:00
 featured: false
 draft: false
@@ -30,10 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-10T16:31:26.889325Z'
+publishDate: '2024-02-17T17:02:56.347480Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Phys. Rev. D*'
 doi: 10.1103/PhysRevD.103.014506
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2007.01155
 ---
