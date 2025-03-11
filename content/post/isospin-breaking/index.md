@@ -3,7 +3,8 @@
 
 title: "Isospin-breaking in light-meson leptonic decays"
 subtitle: ""
-summary: "(**Image credit: Matteo Di Carlo**) This is a summary of our recent work on including the effects of photons, and the mass difference of up and down quarks, in decays of mesons to leptons and neutrinos."
+summary: Summary of recent work on including the effects of photons in decays of mesons to leptons
+#"(**Image credit: Matteo Di Carlo**) This is a summary of our recent work on including the effects of photons, and the mass difference of up and down quarks, in decays of mesons to leptons and neutrinos."
 authors: []
 tags: []
 categories: []
@@ -19,7 +20,7 @@ image:
   placement: 1
   caption: ""
   focal_point: "Center"
-  preview_only: BottomRight
+  preview_only: false
 
 links:
   - name: Preprint
