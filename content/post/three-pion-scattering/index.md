@@ -3,7 +3,7 @@
 
 title: "Three-pion scattering"
 subtitle: ""
-summary: ""
+summary: Summary of recent work predicting a three-pion scattering amplitude from lattice QCD
 authors: []
 tags: []
 categories: []
@@ -18,7 +18,7 @@ draft: false
 image:
   caption: ""
   focal_point: "Left"
-  preview_only: true
+  preview_only: false
 
 
 links:

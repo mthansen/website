@@ -3,7 +3,7 @@
 
 title: "Variations on Maiani-Testa"
 subtitle: ""
-summary: ""
+summary: Summary of recent work connecting Euclidean correlators to scattering amplitudes
 authors: []
 tags: []
 categories: []

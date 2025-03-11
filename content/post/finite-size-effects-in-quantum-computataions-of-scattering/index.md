@@ -3,7 +3,7 @@
 
 title: "Finite-size effects in quantum computations of scattering"
 subtitle: ""
-summary: ""
+summary: Summary of recent work on finite-size effects in real-time quantities
 authors: []
 tags: []
 categories: []
@@ -18,7 +18,7 @@ draft: false
 image:
   caption: ""
   focal_point: "Right"
-  preview_only: true
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
