@@ -3,7 +3,7 @@
 
 title: "Isospin-breaking in light-meson leptonic decays"
 subtitle: ""
-summary: Summary of recent work on including the effects of photons in decays of mesons to leptons
+summary: Summary of recent work on the effects of photons in decays of mesons to leptons
 #"(**Image credit: Matteo Di Carlo**) This is a summary of our recent work on including the effects of photons, and the mass difference of up and down quarks, in decays of mesons to leptons and neutrinos."
 authors: []
 tags: []
