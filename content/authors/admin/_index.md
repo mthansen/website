@@ -14,7 +14,7 @@ last_name: Hansen
 superuser: true
 
 # Role/position/tagline
-role: UKRI Future Leaders Fellow
+role: Personal Chair of Theoretical and Computational Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -54,9 +54,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/mthansen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/max-hansen-87b482214/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/max-hansen-87b482214/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a member of the [Higgs Centre](https://higgs.ph.ed.ac.uk/people/hansen-maxwell-t/) and the [Particle Physics Theory](https://www.ph.ed.ac.uk/people/maxwell-hansen) group at the University of Edinburgh. I joined the group in 2020 with the support of an impressive new initiative aimed at a wide range of UK-based researchers: [The UKRI Future Leaders Fellowship](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/). I go by 'Max', but I use my full name for [research publications](https://inspirehep.net/authors/1217906?ui-citation-summary=true).
+I am a member of the [Higgs Centre](https://higgs.ph.ed.ac.uk/people/hansen-maxwell-t/) and the [Particle Physics Theory](https://www.ph.ed.ac.uk/people/maxwell-hansen) group at the University of Edinburgh. I joined the group in 2020 with the support of [The UKRI Future Leaders Fellowship](https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/). I go by 'Max', but I use my full name for [research publications](https://inspirehep.net/authors/1217906?ui-citation-summary=true).
 
 Before coming to Edinburgh, I was a postdoctoral fellow at the Helmholz Institute in Mainz, Germany, and a fellow, and later a staff member, in the Theory Department at CERN, in Geneva, Switzerland. I completed my Ph.D. at the University of Washington in 2014, under the exceptional supervision of Steve Sharpe.
