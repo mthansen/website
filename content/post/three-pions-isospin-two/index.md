@@ -7,8 +7,8 @@ summary: Summary of recent work predicting the isotensor three-pion scattering a
 authors: []
 tags: []
 categories: []
-date: 2026-03-27T18:00:33+01:00
-lastmod: 2026-03-27T18:00:33+01:00
+date: 2026-03-26T18:00:33+01:00
+lastmod: 2026-03-26T18:00:33+01:00
 featured: false
 draft: false
 
