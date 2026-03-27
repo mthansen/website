@@ -17,12 +17,12 @@ summary:  The aim of the meeting is to bring together UK researchers in lattice 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 
-date: '2026-05-25'
-date_end: '2026-05-26'
+date: '2026-03-25'
+date_end: '2026-03-26'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-05-25'
+publishDate: '2026-03-25'
 
 authors: []
 tags: []
