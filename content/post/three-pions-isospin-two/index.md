@@ -34,7 +34,7 @@ links:
 projects: []
 ---
 
-An informal summary of: [_Isotensor $\pi\pi\pi$ scattering with a $\rho$ resonant subsystem from QCD_]({{< ref "/publication/briceno-2025-yuk" >}}) will be added here in the near future.
+An informal summary of: [_Isotensor $\pi\pi\pi$ scattering with a $\rho$ resonant subsystem from QCD_]({{< ref "/publication/briceno-2025-yuq" >}}) will be added here in the near future.
 
 <!-- , published in [PRL](<https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.012001>). In some ways, this work represents the culmination of a many-year effort going back to my PhD thesis in 2014. The focus is to predict the scattering amplitude that describes the process -->
 <!-- $$ \pi^+(p_1)   \pi^+(p_2)   \pi^+(p_3)   \to   \pi^+(p_1')   \pi^+(p_2')   \pi^+(p_3') .$$ -->
