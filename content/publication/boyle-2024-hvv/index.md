@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Light and strange vector resonances from lattice QCD at physical quark masses
+title: Light and Strange Vector Resonances from Lattice QCD at Physical Quark Masses
 subtitle: ''
 summary: ''
 authors:
@@ -10,12 +10,12 @@ authors:
 - Vera Gülpers
 - Maxwell T. Hansen
 - Fabian Joswig
-- Nelson Pitanga Lachini
 - Michael Marshall
+- Nelson Pitanga Lachini
 - Antonin Portelli
 tags: []
 categories: []
-date: '2024-06-01'
+date: '2025-01-01'
 lastmod: 2025-03-10T13:28:55Z
 featured: false
 draft: false
@@ -34,12 +34,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-03-10T13:30:07.727448Z'
+publishDate: '2026-03-27T15:34:08.139933Z'
 publication_types:
 - '2'
 abstract: ''
-publication: ''
+publication: '*Phys. Rev. Lett.*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2406.19194
+doi: 10.1103/PhysRevLett.134.111901
 ---
