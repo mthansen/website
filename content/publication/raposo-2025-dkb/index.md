@@ -12,7 +12,7 @@ authors:
 - Andrew W. Jackura
 tags: []
 categories: []
-date: '2025-02-01'
+date: '2025-01-01'
 lastmod: 2025-03-10T13:28:54Z
 featured: false
 draft: false
@@ -31,12 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-03-10T13:30:06.651958Z'
+publishDate: '2026-03-27T15:34:06.902222Z'
 publication_types:
 - '2'
 abstract: ''
-publication: ''
+publication: '*JHEP*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2502.19375
+doi: 10.1007/JHEP06(2025)186
 ---
